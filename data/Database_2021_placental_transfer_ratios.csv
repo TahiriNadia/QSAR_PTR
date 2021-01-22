@@ -1,1 +1,106 @@
-SMILES;Ratio LnC1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)C2=C(C(=C(C(=C2Cl)Cl)Cl)Cl)Cl;-2.41C12C(C(C3(C1O3)Cl)Cl)C4(C(=C(C2(C4(Cl)Cl)Cl)Cl)Cl)Cl;-2.30C1=C(C(=C(C(=C1Cl)Cl)Cl)Cl)C2=C(C(=C(C(=C2Cl)Cl)Cl)Cl)Cl;-2.21C12=C(C(=C(C(=C1Cl)Cl)Cl)Cl)OC3=C(O2)C(=C(C(=C3Cl)Cl)Cl)Cl;-2.21C1=C(C(=C(C(=C1Cl)Cl)Cl)Cl)C2=CC(=C(C(=C2Cl)Cl)Cl)Cl ;-2.12C1=CC(=C(C=C1C2=CC(=C(C=C2Cl)Cl)Cl)Cl)Cl;-2.12C1=C(C=C(C(=C1Cl)Cl)Cl)C2=CC(=C(C(=C2Cl)Cl)Cl)Cl ;-2.04C1=C(C=C(C(=C1Cl)Cl)Cl)C2=CC(=C(C(=C2)Cl)Cl)Cl ;-1.90C1=CC(=C(C=C1C2=C(C(=C(C=C2)Cl)Cl)Cl)Cl)Cl;-1.83C1=CC(=C(C=C1C2=CC(=C(C(=C2Cl)Cl)Cl)Cl)Cl)Cl ;-1.83C1=CC(=C(C(=C1C2=CC(=C(C(=C2Cl)Cl)Cl)Cl)Cl)Cl)Cl;-1.83C1=C(C(=CC(=C1Br)Br)Br)C2=CC(=C(C=C2Br)Br)Br;-1.71C1=CC(=C(C=C1C2=CC(=C(C(=C2)Cl)Cl)Cl)Cl)Cl ;-1.71C1=CC(=C(C(=C1C2=CC(=C(C(=C2)Cl)Cl)Cl)Cl)Cl)Cl ;-1.71C1=C(C=C(C(=C1Cl)Cl)Cl)C2=CC(=C(C=C2Cl)Cl)Cl ;-1.71C1=C(C(=CC(=C1Cl)Cl)Cl)C2=CC(=C(C(=C2Cl)Cl)Cl)Cl;-1.71C1=C2C(=C(C(=C1Cl)Cl)Cl)OC3=C(O2)C(=C(C(=C3Cl)Cl)Cl)Cl ;-1.66C1=C(C(=CC(=C1Cl)Cl)Cl)C2=CC(=C(C=C2Cl)Cl)Cl;-1.66C1=C(C(=CC(=C1Br)Br)Br)OC2=CC(=C(C=C2Br)Br)Br ;-1.61C1=CC(=CC=C1C2=CC(=C(C(=C2Cl)Cl)Cl)Cl)Cl ;-1.61C1=CC(=C(C(=C1C2=CC(=C(C=C2Cl)Cl)Cl)Cl)Cl)Cl;-1.56C1=C2C(=CC(=C1Cl)Cl)OC3=C(O2)C(=C(C(=C3Cl)Cl)Cl)Cl;-1.51C1=C2C3=CC(=C(C(=C3OC2=CC(=C1Cl)Cl)Cl)Cl)Cl;-1.51C1=CC(=C(C=C1Cl)Cl)C2=CC(=C(C(=C2)Cl)Cl)Cl ;-1.51C1=C2C(=CC(=C1Cl)Cl)OC3=C(C(=C(C=C3O2)Cl)Cl)Cl ;-1.47C1=CC(=C(C=C1C2=C(C(=CC(=C2Cl)Cl)Cl)Cl)Cl)Cl;-1.47C1=CC(=CC=C1C2=CC(=C(C=C2Cl)Cl)Cl)Cl ;-1.43C1=C2C(=CC(=C1Cl)Cl)OC3=C2C(=C(C(=C3Cl)Cl)Cl)Cl ;-1.39C(=O)(C(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O;-1.39C1CC2=CC=CC3=C2C1=CC=C3;-1.35C1=C2C3=CC(=C(C(=C3OC2=C(C(=C1Cl)Cl)Cl)Cl)Cl)Cl;-1.31C1=CC(=CC=C1C2=CC(=C(C(=C2)Cl)Cl)Cl)Cl;-1.31C(=O)(C(C(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O;-1.31C1=C2C(=CC(=C1Cl)Cl)OC3=CC(=C(C=C3O2)Cl)Cl;-1.27C1C2=CC=CC=C2C3=CC=CC=C31;-1.24C(C(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)(F)F)(C(C(C(F)(F)F)(F)F)(F)F)(F)F;-1.24C1=C2C3=C(C(=C(C=C3OC2=C(C(=C1Cl)Cl)Cl)Cl)Cl)Cl ;-1.20C1(C(C(C(C(C1Cl)Cl)Cl)Cl)Cl)Cl;-1.20C1=CC(=C(C=C1Br)Br)OC2=C(C=C(C=C2Br)Br)Br ;-1.20C1=CC(=C(C=C1Br)Br)OC2=CC(=C(C=C2Br)Br)Br;-1.20C12C(C(C(C1Cl)Cl)Cl)C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl ;-1.20C1=CC(=C(C=C1Cl)Cl)C2=CC(=C(C=C2Cl)Cl)Cl;-1.12C1=C2C3=C(C(=C(C(=C3Cl)Cl)Cl)Cl)OC2=C(C(=C1Cl)Cl)Cl ;-1.11C1=C2C(=CC(=C1Cl)Cl)OC3=CC(=C(C(=C23)Cl)Cl)Cl;-1.11C1=CC(=C(C=C1C2=CC(=C(C=C2)Cl)Cl)Cl)Cl ;-1.11C1=CC=C2C(=C1)C3=CC=CC4=C3C2=CC=C4;-1.08C1=CC=C(C(=C1)C(C2=CC=C(C=C2)Cl)C(Cl)Cl)Cl;-1.08C1=CC=C2C(=C1)C=CC3=CC4=CC=CC=C4C=C32;-1.05C1=CC=C2C(=C1)C=CC3=C2C=CC4=CC=CC=C43;-1.05C(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)F;-1.05C1=CC=C2C(=C1)C=CC3=CC=CC=C32;-1.02C1=CC=C(C(=C1)C(=C(Cl)Cl)C2=CC=C(C=C2)Cl)Cl;-0.99C1=CC(=CC=C1C(C2=CC=C(C=C2)Cl)C(Cl)Cl)Cl;-0.99C1=CC2=C3C(=C1)C=CC3=CC=C2;-0.94C1=CC(=CC=C1C(C2=CC=C(C=C2)Cl)C(Cl)(Cl)Cl)Cl;-0.94C1=CC(=CC=C1C(=C(Cl)Cl)C2=CC=C(C=C2)Cl)Cl;-0.92C1=CC(=C(C=C1Br)Br)OC2=C(C=C(C(=C2)Br)O)Br;-0.92C1=CC(=C(C=C1Br)Br)OC2=C(C=C(C=C2)Br)Br ;-0.92C1=CC=C2C=C3C4=CC=CC5=C4C(=CC=C5)C3=CC2=C1;-0.92C1=CC=C(C(=C1)C(C2=CC=C(C=C2)Cl)C(Cl)(Cl)Cl)Cl;-0.89C1=C2C3=CC(=C(C=C3OC2=CC(=C1Cl)Cl)Cl)Cl;-0.87C1=CC=C2C=C3C=CC=CC3=CC2=C1;-0.87C(=O)(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O;-0.84C1=CC2=C3C(=C1)C=CC4=CC=CC(=C43)C=C2;-0.84C1=CC(=CC=C1OC2=C(C=C(C=C2)Br)Br)Br;-0.80C1=C(C=C(C(=C1Br)OC2=CC(=C(C=C2Br)Br)Br)Br)Br;-0.78C(=O)(C(C(C(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O;-0.67C1=CC(=C(C=C1C2=CC(=C(C(=C2Cl)Cl)O)Cl)Cl)Cl;-0.56C1=CC=C(C=C1)C2=C(C(=C(C=C2)Cl)Cl)Cl;-0.53C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)Cl;-0.51C(=O)(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O;-0.43C1=C(C(=CC(=C1Cl)Cl)Cl)C2=CC(=C(C(=C2Cl)O)Cl)Cl;-0.39C1=C(C(=CC(=C1Cl)Cl)Cl)C2=C(C(=C(C(=C2Cl)Cl)O)Cl)Cl;-0.39C1=C(C(=CC(=C1Cl)Cl)Cl)C2=CC(=C(C(=C2Cl)Cl)O)Cl;-0.25C1(=C(C(=C(C(=C1Br)Br)Br)Br)Br)OC2=C(C(=C(C(=C2Br)Br)Br)Br)Br;-0.22C(C(C(C(F)(F)F)(F)F)(F)F)(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)(F)F;-0.22CC1(OC2=C(O1)C(=CC=C2)OC(=O)NC)C;-0.17CCOP(=S)(OCC)OC1=NC(=NC(=C1)C)C(C)C;-0.16C1=CC=C2C(=C1)C(=O)NC2=O;-0.14CN(CC(=O)O)S(=O)(=O)C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F;-0.11C1C=CCC2C1C(=O)NC2=O;-0.09CCOP(=S)(OCC)OC1=NC(=C(C=C1Cl)Cl)Cl;-0.02C1=CC(=C(C(=C1C2=CC(=C(C(=C2Cl)O)Cl)Cl)Cl)Cl)Cl;0.01C1=C(C(=C(C(=C1Cl)O)Cl)Cl)C2=CC(=C(C(=C2Cl)Cl)Cl)Cl;0.03C1=C(C=C(C(=C1Cl)N)Cl)[N+](=O)[O-];0.06C(=O)(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)O;0.07C1=CC(=C(C=C1Br)Br)OC2=C(C=C(C(=C2)O)Br)Br;0.10C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)O;0.10C(C(C(C(C(F)(F)S(=O)(=O)N)(F)F)(F)F)(F)F)(C(C(C(F)(F)F)(F)F)(F)F)(F)F;0.10CC(C)OC1=CC=CC=C1O;0.12C1=CC=C2C(=C1)C3=CC=CC=C3O2;0.18CCN(CC(=O)O)S(=O)(=O)C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F;0.18C(=O)(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O;0.18CC1=CC=CC2=CC=CC=C12;0.26C(=O)(C(C(C(C(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O;0.32CC1=CC2=CC=CC=C2C=C1;0.34C1=CC=C(C=C1)C2=CC=CC=C2;0.34C1=CC=C2C(=C1)C3=CC=CC=C3S2;0.34CC1=C2C=C(C(=CC2=CC=C1)C)C;0.41C(CS(=O)(=O)O)C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F;0.51C1=CC(=CC=C1C(=O)O)F;0.51CC1=C2C=CC3=CC=CC=C3C2=CC=C1;0.69CC1=CC2=C(C=C1)C=C(C=C2)C;0.69C1=CC=C2C=CC=CC2=C1;1.13C(=O)(C(C(C(C(C(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O;1.39;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+SMILES;Ratio Ln
+C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)C2=C(C(=C(C(=C2Cl)Cl)Cl)Cl)Cl;-2.41
+C12C(C(C3(C1O3)Cl)Cl)C4(C(=C(C2(C4(Cl)Cl)Cl)Cl)Cl)Cl;-2.30
+C1=C(C(=C(C(=C1Cl)Cl)Cl)Cl)C2=C(C(=C(C(=C2Cl)Cl)Cl)Cl)Cl;-2.21
+C12=C(C(=C(C(=C1Cl)Cl)Cl)Cl)OC3=C(O2)C(=C(C(=C3Cl)Cl)Cl)Cl;-2.21
+C1=C(C(=C(C(=C1Cl)Cl)Cl)Cl)C2=CC(=C(C(=C2Cl)Cl)Cl)Cl ;-2.12
+C1=CC(=C(C=C1C2=CC(=C(C=C2Cl)Cl)Cl)Cl)Cl;-2.12
+C1=C(C=C(C(=C1Cl)Cl)Cl)C2=CC(=C(C(=C2Cl)Cl)Cl)Cl ;-2.04
+C1=C(C=C(C(=C1Cl)Cl)Cl)C2=CC(=C(C(=C2)Cl)Cl)Cl ;-1.90
+C1=CC(=C(C=C1C2=C(C(=C(C=C2)Cl)Cl)Cl)Cl)Cl;-1.83
+C1=CC(=C(C=C1C2=CC(=C(C(=C2Cl)Cl)Cl)Cl)Cl)Cl ;-1.83
+C1=CC(=C(C(=C1C2=CC(=C(C(=C2Cl)Cl)Cl)Cl)Cl)Cl)Cl;-1.83
+C1=C(C(=CC(=C1Br)Br)Br)C2=CC(=C(C=C2Br)Br)Br;-1.71
+C1=CC(=C(C=C1C2=CC(=C(C(=C2)Cl)Cl)Cl)Cl)Cl ;-1.71
+C1=CC(=C(C(=C1C2=CC(=C(C(=C2)Cl)Cl)Cl)Cl)Cl)Cl ;-1.71
+C1=C(C=C(C(=C1Cl)Cl)Cl)C2=CC(=C(C=C2Cl)Cl)Cl ;-1.71
+C1=C(C(=CC(=C1Cl)Cl)Cl)C2=CC(=C(C(=C2Cl)Cl)Cl)Cl;-1.71
+C1=C2C(=C(C(=C1Cl)Cl)Cl)OC3=C(O2)C(=C(C(=C3Cl)Cl)Cl)Cl ;-1.66
+C1=C(C(=CC(=C1Cl)Cl)Cl)C2=CC(=C(C=C2Cl)Cl)Cl;-1.66
+C1=C(C(=CC(=C1Br)Br)Br)OC2=CC(=C(C=C2Br)Br)Br ;-1.61
+C1=CC(=CC=C1C2=CC(=C(C(=C2Cl)Cl)Cl)Cl)Cl ;-1.61
+C1=CC(=C(C(=C1C2=CC(=C(C=C2Cl)Cl)Cl)Cl)Cl)Cl;-1.56
+C1=C2C(=CC(=C1Cl)Cl)OC3=C(O2)C(=C(C(=C3Cl)Cl)Cl)Cl;-1.51
+C1=C2C3=CC(=C(C(=C3OC2=CC(=C1Cl)Cl)Cl)Cl)Cl;-1.51
+C1=CC(=C(C=C1Cl)Cl)C2=CC(=C(C(=C2)Cl)Cl)Cl ;-1.51
+C1=C2C(=CC(=C1Cl)Cl)OC3=C(C(=C(C=C3O2)Cl)Cl)Cl ;-1.47
+C1=CC(=C(C=C1C2=C(C(=CC(=C2Cl)Cl)Cl)Cl)Cl)Cl;-1.47
+C1=CC(=CC=C1C2=CC(=C(C=C2Cl)Cl)Cl)Cl ;-1.43
+C1=C2C(=CC(=C1Cl)Cl)OC3=C2C(=C(C(=C3Cl)Cl)Cl)Cl ;-1.39
+C(=O)(C(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O;-1.39
+C1CC2=CC=CC3=C2C1=CC=C3;-1.35
+C1=C2C3=CC(=C(C(=C3OC2=C(C(=C1Cl)Cl)Cl)Cl)Cl)Cl;-1.31
+C1=CC(=CC=C1C2=CC(=C(C(=C2)Cl)Cl)Cl)Cl;-1.31
+C(=O)(C(C(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O;-1.31
+C1=C2C(=CC(=C1Cl)Cl)OC3=CC(=C(C=C3O2)Cl)Cl;-1.27
+C1C2=CC=CC=C2C3=CC=CC=C31;-1.24
+C(C(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)(F)F)(C(C(C(F)(F)F)(F)F)(F)F)(F)F;-1.24
+C1=C2C3=C(C(=C(C=C3OC2=C(C(=C1Cl)Cl)Cl)Cl)Cl)Cl ;-1.20
+C1(C(C(C(C(C1Cl)Cl)Cl)Cl)Cl)Cl;-1.20
+C1=CC(=C(C=C1Br)Br)OC2=C(C=C(C=C2Br)Br)Br ;-1.20
+C1=CC(=C(C=C1Br)Br)OC2=CC(=C(C=C2Br)Br)Br;-1.20
+C12C(C(C(C1Cl)Cl)Cl)C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl ;-1.20
+C1=CC(=C(C=C1Cl)Cl)C2=CC(=C(C=C2Cl)Cl)Cl;-1.12
+C1=C2C3=C(C(=C(C(=C3Cl)Cl)Cl)Cl)OC2=C(C(=C1Cl)Cl)Cl ;-1.11
+C1=C2C(=CC(=C1Cl)Cl)OC3=CC(=C(C(=C23)Cl)Cl)Cl;-1.11
+C1=CC(=C(C=C1C2=CC(=C(C=C2)Cl)Cl)Cl)Cl ;-1.11
+C1=CC=C2C(=C1)C3=CC=CC4=C3C2=CC=C4;-1.08
+C1=CC=C(C(=C1)C(C2=CC=C(C=C2)Cl)C(Cl)Cl)Cl;-1.08
+C1=CC=C2C(=C1)C=CC3=CC4=CC=CC=C4C=C32;-1.05
+C1=CC=C2C(=C1)C=CC3=C2C=CC4=CC=CC=C43;-1.05
+C(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)F;-1.05
+C1=CC=C2C(=C1)C=CC3=CC=CC=C32;-1.02
+C1=CC=C(C(=C1)C(=C(Cl)Cl)C2=CC=C(C=C2)Cl)Cl;-0.99
+C1=CC(=CC=C1C(C2=CC=C(C=C2)Cl)C(Cl)Cl)Cl;-0.99
+C1=CC2=C3C(=C1)C=CC3=CC=C2;-0.94
+C1=CC(=CC=C1C(C2=CC=C(C=C2)Cl)C(Cl)(Cl)Cl)Cl;-0.94
+C1=CC(=CC=C1C(=C(Cl)Cl)C2=CC=C(C=C2)Cl)Cl;-0.92
+C1=CC(=C(C=C1Br)Br)OC2=C(C=C(C(=C2)Br)O)Br;-0.92
+C1=CC(=C(C=C1Br)Br)OC2=C(C=C(C=C2)Br)Br ;-0.92
+C1=CC=C2C=C3C4=CC=CC5=C4C(=CC=C5)C3=CC2=C1;-0.92
+C1=CC=C(C(=C1)C(C2=CC=C(C=C2)Cl)C(Cl)(Cl)Cl)Cl;-0.89
+C1=C2C3=CC(=C(C=C3OC2=CC(=C1Cl)Cl)Cl)Cl;-0.87
+C1=CC=C2C=C3C=CC=CC3=CC2=C1;-0.87
+C(=O)(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O;-0.84
+C1=CC2=C3C(=C1)C=CC4=CC=CC(=C43)C=C2;-0.84
+C1=CC(=CC=C1OC2=C(C=C(C=C2)Br)Br)Br;-0.80
+C1=C(C=C(C(=C1Br)OC2=CC(=C(C=C2Br)Br)Br)Br)Br;-0.78
+C(=O)(C(C(C(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O;-0.67
+C1=CC(=C(C=C1C2=CC(=C(C(=C2Cl)Cl)O)Cl)Cl)Cl;-0.56
+C1=CC=C(C=C1)C2=C(C(=C(C=C2)Cl)Cl)Cl;-0.53
+C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)Cl;-0.51
+C(=O)(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O;-0.43
+C1=C(C(=CC(=C1Cl)Cl)Cl)C2=CC(=C(C(=C2Cl)O)Cl)Cl;-0.39
+C1=C(C(=CC(=C1Cl)Cl)Cl)C2=C(C(=C(C(=C2Cl)Cl)O)Cl)Cl;-0.39
+C1=C(C(=CC(=C1Cl)Cl)Cl)C2=CC(=C(C(=C2Cl)Cl)O)Cl;-0.25
+C1(=C(C(=C(C(=C1Br)Br)Br)Br)Br)OC2=C(C(=C(C(=C2Br)Br)Br)Br)Br;-0.22
+C(C(C(C(F)(F)F)(F)F)(F)F)(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)(F)F;-0.22
+CC1(OC2=C(O1)C(=CC=C2)OC(=O)NC)C;-0.17
+CCOP(=S)(OCC)OC1=NC(=NC(=C1)C)C(C)C;-0.16
+C1=CC=C2C(=C1)C(=O)NC2=O;-0.14
+CN(CC(=O)O)S(=O)(=O)C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F;-0.11
+C1C=CCC2C1C(=O)NC2=O;-0.09
+CCOP(=S)(OCC)OC1=NC(=C(C=C1Cl)Cl)Cl;-0.02
+C1=CC(=C(C(=C1C2=CC(=C(C(=C2Cl)O)Cl)Cl)Cl)Cl)Cl;0.01
+C1=C(C(=C(C(=C1Cl)O)Cl)Cl)C2=CC(=C(C(=C2Cl)Cl)Cl)Cl;0.03
+C1=C(C=C(C(=C1Cl)N)Cl)[N+](=O)[O-];0.06
+C(=O)(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)O;0.07
+C1=CC(=C(C=C1Br)Br)OC2=C(C=C(C(=C2)O)Br)Br;0.10
+C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)O;0.10
+C(C(C(C(C(F)(F)S(=O)(=O)N)(F)F)(F)F)(F)F)(C(C(C(F)(F)F)(F)F)(F)F)(F)F;0.10
+CC(C)OC1=CC=CC=C1O;0.12
+C1=CC=C2C(=C1)C3=CC=CC=C3O2;0.18
+CCN(CC(=O)O)S(=O)(=O)C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F;0.18
+C(=O)(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O;0.18
+CC1=CC=CC2=CC=CC=C12;0.26
+C(=O)(C(C(C(C(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O;0.32
+CC1=CC2=CC=CC=C2C=C1;0.34
+C1=CC=C(C=C1)C2=CC=CC=C2;0.34
+C1=CC=C2C(=C1)C3=CC=CC=C3S2;0.34
+CC1=C2C=C(C(=CC2=CC=C1)C)C;0.41
+C(CS(=O)(=O)O)C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F;0.51
+C1=CC(=CC=C1C(=O)O)F;0.51
+CC1=C2C=CC3=CC=CC=C3C2=CC=C1;0.69
+CC1=CC2=C(C=C1)C=C(C=C2)C;0.69
+C1=CC=C2C=CC=CC2=C1;1.13
+C(=O)(C(C(C(C(C(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O;1.39
