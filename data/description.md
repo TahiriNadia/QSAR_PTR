@@ -1,2 +1,4 @@
-#Data Set
-The data set consisted of 105 structurally diverse compounds. Their placental transfer data expressed as cord:mother concentration ratios were compiled from literature sources published over the past two decades (Table 1). In these literature sources, ex vivo human placental perfusion method was applied to measure cord:mother concentration ratios.
+# Data Set
+
+ 
+> A database was created compiling maternal-fetal blood concentrations ratios of 105 environmental contaminants from published articles ranging from 2002 to 2020. Chemicals included 11 OCPs, 7 pesticides, 2 hydroxy(OH)-PBDEs, 4 PBDEs, 19 polycyclic aromatic hydrocarbon (PAHs), one polybrominated biphenyl (PBB), 6 hydroxy(OH)-PCBs, 29 PCBs, 5 polychlorinated dibenzo-p-dioxins (PCDDs), 7 polychlorinated dibenzofurans (PCDFs), and 17 per- et polyfluoroalkyl substances (PFAs). All ratios have been calculated on blood samples collected at or around delivery from mother-infants pairs, and expressed in wet weight. Exceptions were made for the compounds BDE154, BDE209, and PCB163, where maternal blood was collected during the first semester, but whose concentrations have been demonstrated stable throughout pregnancy. Ratios were converted to Ln, and SMILES were retrieved for all chemicals.
